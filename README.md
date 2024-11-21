@@ -1,5 +1,5 @@
 # Hi there, I'm Chi! 👋
-- 🚀 Fullstack Developer passionate about web and mobile development.
+- 🚀 Software Developer passionate about web and mobile development.
 - 🌱 Currently learning Docker and exploring Flutter📱.
 - 🛠️ Building a Pokédex API project using Next.js and PostgreSQL.
 
