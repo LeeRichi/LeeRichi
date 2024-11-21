@@ -1,4 +1,4 @@
-# Hi there, I'm Chi! 👋
+# Hello, I'm Chi! 👋
 - 🚀 Software Developer passionate about web and mobile development.
 - 🌱 Currently learning Docker and exploring Flutter📱.
 - 🛠️ Building a Pokédex API project using Next.js and PostgreSQL.
