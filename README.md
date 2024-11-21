@@ -1,4 +1,21 @@
-# Hi there, I'm Chi! 👋
+<style>
+  .typing-effect {
+    width: 0;
+    overflow: hidden;
+    border-right: 2px solid #000;
+    animation: typing 3s steps(30) 1s forwards;
+    font-size: 2em;
+  }
+
+  @keyframes typing {
+    0% { width: 0; }
+    100% { width: 100%; }
+  }
+</style>
+
+<h1 class="typing-effect">Hi there, I'm Chi! 👋</h1>
+
+<!-- # Hi there, I'm Chi! 👋 -->
 - 🚀 Software Developer passionate about web and mobile development.
 - 🌱 Currently learning Docker and exploring Flutter📱.
 - 🛠️ Building a Pokédex API project using Next.js and PostgreSQL.
