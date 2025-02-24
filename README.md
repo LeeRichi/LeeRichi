@@ -1,7 +1,7 @@
 # Hello, I'm Chi! 👋
 - 🚀 Software Developer passionate about web and mobile development.
-- 🌱 Currently learning Docker and exploring Flutter📱.
-- 🛠️ Building a Pokédex API project using Next.js and PostgreSQL.
+- 🌱 Currently deepening my understanding of computer science concepts at Hive Helsinki, focusing on C and C++, with an emphasis on algorithms, CI/CD, and code reviews.
+- 🛠️ Refactoring a Pokédex API project with GraphQL for improved efficiency and flexibility.
 
 ## 🛠️ Stacks
 <div style="display: inline_block"><br>
@@ -12,8 +12,13 @@
 	<img align="center" alt="Rafa-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 	<img align="center" alt="Rafa-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 	<img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+	<img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 	<img align="center" alt="Rafa-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 	<img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+	<img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+	<img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+	<img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+	<img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
 </div>
 
   ##
