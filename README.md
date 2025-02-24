@@ -30,3 +30,5 @@
   	<img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
   </a>
 </div>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21ic29ocmRlbm1hd3JqYmI3OHZ3a3U1NjkyNzk3djNkbzlwcTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbxvxKwfNnyVodKroM/giphy.gif" width="306" height="200" />
