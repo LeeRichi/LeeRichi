@@ -1,8 +1,9 @@
 # Hello, I'm Chi! 👋
 - 🚀 Software Developer passionate about web and mobile development.
+- 🏆 Supercell x Junciton 2024 winner.
 - 🏆 Junction 2024 winner.
 - 🌱 Currently deepening my understanding of computer science concepts at Hive Helsinki, focusing on C and C++, with an emphasis on algorithms, CI/CD, and code reviews.
-- 🛠️ Refactoring [PokeWorld](https://github.com/LeeRichi/pokeWorld) – a full-stack Pokédex app with GraphQL for improved efficiency and flexibility.
+- 🛠️ Refactoring [PokeWorld](https://github.com/LeeRichi/pokeWorld) – a full-stack Pokédex app, enhancing efficiency and flexibility with GraphQL integration and implementing an AI-powered smart search bar.
 
 ## 🛠️ Stacks
 <div style="display: inline_block"><br>
