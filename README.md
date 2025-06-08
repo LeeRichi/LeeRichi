@@ -27,7 +27,7 @@
 <div>
   <a href = "mailto:lee.rich.chi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leerichchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a href="https://leechi.netlify.app/" target="_blank">
+	<a href="https://leechi.me/" target="_blank">
   	<img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
   </a>
 </div>
