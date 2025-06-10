@@ -1,3 +1,6 @@
+<img src="./banner2.gif" width="1000" height="200" />
+
+
 # Hello, I'm Chi! 👋
 - 🚀 Software Developer passionate about web and mobile development.
 - 🏆 Supercell x Junciton 2024 winner.
@@ -32,4 +35,5 @@
   </a>
 </div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21ic29ocmRlbm1hd3JqYmI3OHZ3a3U1NjkyNzk3djNkbzlwcTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbxvxKwfNnyVodKroM/giphy.gif" width="306" height="200" />
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21ic29ocmRlbm1hd3JqYmI3OHZ3a3U1NjkyNzk3djNkbzlwcTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbxvxKwfNnyVodKroM/giphy.gif" width="306" height="200" />
+ -->
