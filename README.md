@@ -1,6 +1,6 @@
 <img src="./banner2.gif" width="1000" height="200" />
 
-# Hello, I'm Chi! 👋
+# Yoo, I'm Chi! 👋
 - 🙋🏻‍♂️ Software Developer in RND Works.
 - 🏆 Supercell x Junciton 2025 winner.
 - 🏆 Junction 2024 winner.
@@ -22,15 +22,12 @@
 	<img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
 
-  ##
+##
 
 <div>
-
   <a href="https://www.linkedin.com/in/leerichchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="https://leechi.me/" target="_blank">
   	<img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website">
   </a>
 </div>
 
-<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21ic29ocmRlbm1hd3JqYmI3OHZ3a3U1NjkyNzk3djNkbzlwcTF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbxvxKwfNnyVodKroM/giphy.gif" width="306" height="200" />
- -->
