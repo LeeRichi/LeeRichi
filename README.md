@@ -4,7 +4,6 @@
 - 🙋🏻‍♂️ Software Developer in RND Works.
 - 🏆 Supercell x Junciton 2025 winner.
 - 🏆 Junction 2024 winner.
-- 👨🏻‍💻 Currently getting my hands dirty contributing on team projects at RND works.
 - 🛠️ Occasionally doing hobby projects to share and have fun.
 
 ##
